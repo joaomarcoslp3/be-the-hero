@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Be The Hero",
-    "slug": "bethehero",
+    "slug": "betheherojhon",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/joaomarcoslp3/be-the-hero"
   }
 }
