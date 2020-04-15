@@ -43,13 +43,6 @@
 ### Test
 - Run `yarn test:backend` at the backend folder;
   
-## How to contribute
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Commit your changes: `git commit -m 'feat: My feature'`;
-- Push to your branch: `git push origin my-feature`;
-
-After the merge of your pull request is done, you can delete your branch.
 
 # License
 [MIT License](/LICENSE)
